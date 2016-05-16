@@ -1,4 +1,2 @@
-# hello-world
-Just another repository
-This is pretty cool ... understanding more and more ....
-I'm adding this comment to my readme-edits branch ...
+# ObscureGlideRecord Stuff
+This zip file contains code copy/paste code for ObscureGlideRecord Hacklab !!
